@@ -10,7 +10,7 @@
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nigam-sharma) or [Twitter](https://twitter.com/nigamsharma_)
 
-🌐 Check out my website: [myportfolio](https://nsktportfolio.vercel.app/)
+🌐 Check out my website: [nigamsharma.com](https://nsktportfolio.vercel.app/)
 
 ---
 
