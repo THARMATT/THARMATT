@@ -2,9 +2,9 @@
 
 👋 Hello, I'm Nigam Sharma!
 
-🚀 Software Engineer || Curious about computers and computer science.
+🚀 Curious about computers and computer science.
 
-🌱 I'm currently learning development.
+🌱 I'm currently exploring Typescript and Nextjs.
 
 📫 Reach me at nigmshrma@gmail.com
 
